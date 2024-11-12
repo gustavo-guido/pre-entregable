@@ -1,4 +1,4 @@
-Pre Entrega del Sitio web de Arriba la Luna realizado en HTML5 y CSS3 para el curso de JS FrontEnd 2024 en Talento <Tech><br>
+Pre Entrega del Sitio web de Arriba la Luna realizado en HTML5 y CSS3 para el curso de JS FrontEnd 2024 en Talento Tech<br>
 Páginas que contiene: <br>
 index.html<br>
 ubicacion.html<br>
